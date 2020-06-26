@@ -1,0 +1,21 @@
+{
+  "name": "backend-ts-socket",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://santiago-valecia@dev.azure.com/santiago-valecia/REPO%20SANTIAGO%20VALENCIA/_git/backend-ts-socket"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
